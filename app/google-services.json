@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182305494990",
+    "project_id": "fala-comigo-83d80",
+    "storage_bucket": "fala-comigo-83d80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182305494990:android:f8a08d84889c2a3b103d9f",
+        "android_client_info": {
+          "package_name": "com.valorizeseusamigos.fala_comigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc2TAL2K_V2cai3GKah2n_xVXcYscPBCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
